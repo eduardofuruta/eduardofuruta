@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eduardofuruta
+- 👀 I’m interested in learning new technologies and software engineering
+- 🌱 I’m currently learning javascript, python and django framework
+- 💞️ I’m looking to collaborate on solving issues with using best practices and tools (Software engineering)
